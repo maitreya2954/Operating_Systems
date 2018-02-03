@@ -1,0 +1,24 @@
+mkdir maitreya 
+ls 
+getme 
+rm -r maitreya 
+getme 
+mkdir maitreya 
+getme 
+getme 
+getme 
+getme 10 
+wc -w Exec.c 
+wc -w *.c 
+wc -m * 
+rm -r maitreya 
+mkdir maitreya 
+getme 3 
+getme 5 
+htop 
+getme 2 
+man man 
+getme2
+manman
+date
+ls

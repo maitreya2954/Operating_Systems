@@ -1,0 +1,3 @@
+The popen() function shall execute the command specified by the string command. It shall create a pipe between the calling program and the executed command, and shall return a pointer to a stream that can be used to either read from or write to the pipe.
+
+The environment of the executed comma
